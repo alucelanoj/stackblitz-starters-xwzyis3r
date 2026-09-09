@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html lang="es"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Ídolos - Boca Juniors</title> <link rel="stylesheet" href="styles.css"> </head>
+
+<body>
+
+<header> <h1>ÍDOLOS DE BOCA JUNIORS</h1>
+
+<nav> <a href="index.html">Inicio</a> <a href="titulos.html">Títulos</a> <a href="idolos.html">Ídolos</a> <a href="bombonera.html">La Bombonera</a> <a href="camiseta.html">La camiseta</a> </nav> </header>
+
+<main>
+
+<section class="hero"> <h2>Jugadores que hicieron historia</h2>
+
+<p> Durante su historia, Boca tuvo muchos jugadores importantes. Algunos de ellos se convirtieron en grandes ídolos del club. </p> </section>
+
+<div class="players">
+
+<div class="player"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Juan_Roman_Riquelme_2015.jpg" alt="Juan Román Riquelme">
+
+<h2>Juan Román Riquelme</h2>
+
+<p>
+  Riquelme es uno de los máximos ídolos de Boca. Se destacó por su
+  técnica, sus pases y su capacidad para manejar los partidos.
+  Ganó varios títulos con el club y fue muy importante en la Copa
+  Libertadores de 2000, 2001 y 2007.
+</p>
+
+</div>
+
+<div class="player"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Martin_Palermo.jpg" alt="Martín Palermo">
+
+<h2>Martín Palermo</h2>
+
+<p>
+  Palermo es uno de los máximos goleadores de la historia de Boca.
+  Fue protagonista de muchos partidos importantes y consiguió
+  varios títulos durante su etapa en el club.
+</p>
+
+</div>
+
+<div class="player"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Diego_Maradona_1986.jpg" alt="Diego Maradona">
+
+<h2>Diego Maradona</h2>
+
+<p>
+  Maradona jugó en Boca en dos etapas. En 1981 consiguió el
+  campeonato con el club y se convirtió rápidamente en una de
+  las figuras más recordadas por los hinchas.
+</p>
+
+</div>
+
+</div>
+
+</main>
+
+<footer> <p>Los grandes ídolos forman parte de la historia de Boca</p> </footer>
+
+<script src="script.js"></script>
+
+</body> </html>

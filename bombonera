@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html lang="es"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>La Bombonera - Boca Juniors</title> <link rel="stylesheet" href="styles.css"> </head>
+
+<body>
+
+<header> <h1>LA BOMBONERA</h1>
+
+<nav> <a href="index.html">Inicio</a> <a href="titulos.html">Títulos</a> <a href="idolos.html">Ídolos</a> <a href="bombonera.html">La Bombonera</a> <a href="camiseta.html">La camiseta</a> </nav> </header>
+
+<main>
+
+<section class="hero">
+
+<h2>El estadio de Boca</h2>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/La_Bombonera_Boca_Juniors.jpg" alt="La Bombonera">
+
+<p> La Bombonera es el estadio de Boca Juniors y está ubicada en el barrio de La Boca, en Buenos Aires. Su nombre oficial es Estadio Alberto J. Armando. </p>
+
+<p> El estadio es conocido en todo el mundo por su diseño y por el ambiente que generan los hinchas durante los partidos. </p>
+
+</section>
+
+<section class="card">
+
+<h2>Un estadio muy especial</h2>
+
+<p> Para los hinchas de Boca, La Bombonera es uno de los lugares más importantes de la historia del club. Allí se vivieron grandes partidos, títulos y momentos que quedaron en la memoria de los hinchas. </p>
+
+</section>
+
+</main>
+
+<footer> <p>La Bombonera - El estadio de Boca Juniors</p> </footer>
+
+<script src="script.js"></script>
+
+</body> </html>

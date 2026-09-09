@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html lang="es"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Títulos - Boca Juniors</title> <link rel="stylesheet" href="styles.css"> </head>
+
+<body>
+
+<header> <h1>TÍTULOS DE BOCA JUNIORS</h1>
+
+<nav> <a href="index.html">Inicio</a> <a href="titulos.html">Títulos</a> <a href="idolos.html">Ídolos</a> <a href="bombonera.html">La Bombonera</a> <a href="camiseta.html">La camiseta</a> </nav> </header>
+
+<main>
+
+<section class="hero"> <h2>Una historia llena de títulos</h2>
+
+<p> Boca Juniors tiene una de las historias más importantes del fútbol argentino. A lo largo de los años consiguió muchos títulos nacionales e internacionales. </p> </section>
+
+<div class="grid">
+
+<div class="trophy"> <h2>Copa Libertadores</h2> <p> Boca ganó la Copa Libertadores en seis oportunidades: 1977, 1978, 2000, 2001, 2003 y 2007. </p> </div>
+
+<div class="trophy"> <h2>Copa Intercontinental</h2> <p> Boca ganó la Copa Intercontinental en 1977, 2000 y 2003. En esta competición se enfrentaban los campeones de Europa y América. </p> </div>
+
+<div class="trophy"> <h2>Campeonatos argentinos</h2> <p> El club consiguió numerosos campeonatos de Primera División durante su historia. </p> </div>
+
+<div class="trophy"> <h2>Copas nacionales</h2> <p> Además de los campeonatos de liga, Boca consiguió muchas copas nacionales a lo largo de los años. </p> </div>
+
+</div>
+
+</main>
+
+<footer> <p>Boca Juniors - Una historia de títulos</p> </footer>
+
+<script src="script.js"></script>
+
+</body> </html>
