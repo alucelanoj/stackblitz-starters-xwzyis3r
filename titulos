@@ -4,32 +4,28 @@
 
 <body>
 
-<header> <h1>TÍTULOS DE BOCA JUNIORS</h1>
+<header> <h1>TÍTULOS DE BOCA</h1>
 
-<nav> <a href="index.html">Inicio</a> <a href="titulos.html">Títulos</a> <a href="idolos.html">Ídolos</a> <a href="bombonera.html">La Bombonera</a> <a href="camiseta.html">La camiseta</a> </nav> </header>
+<nav> <a href="index.html">Inicio</a> <a href="titulos.html">Títulos</a> <a href="idolos.html">Ídolos</a> <a href="bombonera.html">Bombonera</a> <a href="camiseta.html">Camiseta</a> </nav> </header>
 
 <main>
 
-<section class="hero"> <h2>Una historia llena de títulos</h2>
-
-<p> Boca Juniors tiene una de las historias más importantes del fútbol argentino. A lo largo de los años consiguió muchos títulos nacionales e internacionales. </p> </section>
+<section class="hero"> <h2>Una historia llena de títulos</h2> <p> Boca consiguió muchos títulos nacionales e internacionales durante su historia. </p> </section>
 
 <div class="grid">
 
-<div class="trophy"> <h2>Copa Libertadores</h2> <p> Boca ganó la Copa Libertadores en seis oportunidades: 1977, 1978, 2000, 2001, 2003 y 2007. </p> </div>
+<div class="trophy"> <h2>🏆 Copa Libertadores</h2> <p> Boca ganó la Copa Libertadores 6 veces: 1977, 1978, 2000, 2001, 2003 y 2007. </p> </div>
 
-<div class="trophy"> <h2>Copa Intercontinental</h2> <p> Boca ganó la Copa Intercontinental en 1977, 2000 y 2003. En esta competición se enfrentaban los campeones de Europa y América. </p> </div>
+<div class="trophy"> <h2>🌎 Intercontinental</h2> <p> Boca ganó la Copa Intercontinental en 1977, 2000 y 2003. </p> </div>
 
-<div class="trophy"> <h2>Campeonatos argentinos</h2> <p> El club consiguió numerosos campeonatos de Primera División durante su historia. </p> </div>
+<div class="trophy"> <h2>🇦🇷 Campeonatos</h2> <p> El club consiguió numerosos campeonatos de Primera División. </p> </div>
 
-<div class="trophy"> <h2>Copas nacionales</h2> <p> Además de los campeonatos de liga, Boca consiguió muchas copas nacionales a lo largo de los años. </p> </div>
+<div class="trophy"> <h2>🥇 Copas nacionales</h2> <p> Boca también ganó muchas copas nacionales a lo largo de su historia. </p> </div>
 
 </div>
 
 </main>
 
 <footer> <p>Boca Juniors - Una historia de títulos</p> </footer>
-
-<script src="script.js"></script>
 
 </body> </html>

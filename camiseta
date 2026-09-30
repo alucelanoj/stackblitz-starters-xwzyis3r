@@ -6,40 +6,24 @@
 
 <header> <h1>LA CAMISETA DE BOCA</h1>
 
-<nav> <a href="index.html">Inicio</a> <a href="titulos.html">Títulos</a> <a href="idolos.html">Ídolos</a> <a href="bombonera.html">La Bombonera</a> <a href="camiseta.html">La camiseta</a> </nav> </header>
+<nav> <a href="index.html">Inicio</a> <a href="titulos.html">Títulos</a> <a href="idolos.html">Ídolos</a> <a href="bombonera.html">Bombonera</a> <a href="camiseta.html">Camiseta</a> </nav> </header>
 
 <main>
 
-<section class="hero">
-
-<h2>Los colores de Boca</h2>
-
-<p> Los colores tradicionales de Boca Juniors son el azul y el amarillo. La camiseta es uno de los símbolos más importantes del club. </p>
+<section class="hero"> <h2>Azul y amarillo</h2>
 
 <div class="shirt"> <div class="blue"></div> <div class="yellow"></div> <div class="blue"></div> </div>
 
-</section>
+<p> Los colores tradicionales de Boca Juniors son el azul y el amarillo. La camiseta es uno de los símbolos más importantes del club. </p> </section>
 
-<section class="card">
+<section class="card"> <h2>¿Por qué estos colores?</h2>
 
-<h2>¿Por qué azul y amarillo?</h2>
+<p> En 1907, según la historia más conocida, los integrantes del club eligieron los colores de la bandera del primer barco que pasó por Puerto Madero. El barco era sueco. </p> </section>
 
-<p> En 1907, los integrantes del club decidieron cambiar los colores de la camiseta. Según la historia más conocida, eligieron los colores de la bandera del primer barco que pasara por Puerto Madero. El barco era de origen sueco y por eso se eligieron el azul y el amarillo. </p>
-
-</section>
-
-<section class="card">
-
-<h2>Un símbolo del club</h2>
-
-<p> Con el paso de los años, la camiseta azul y amarilla se convirtió en uno de los símbolos más reconocibles de Boca Juniors. </p>
-
-</section>
+<section class="card"> <h2>Un símbolo</h2> <p> Con el paso de los años, la camiseta azul y amarilla se convirtió en uno de los símbolos más reconocibles de Boca. </p> </section>
 
 </main>
 
 <footer> <p>Azul y amarillo, los colores de Boca</p> </footer>
-
-<script src="script.js"></script>
 
 </body> </html>
